@@ -1,10 +1,11 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B11BJZAU)
-```
+
+
 Tachyon OS
 ==========
 
 Tachyon OS is a free and open-source custom 
-Operating System created by UocDev, 
+Operating System created by Uoc Tamika, 
 built using GNU utility components.
 
 This project draws inspiration from the Linux kernel 
@@ -26,4 +27,3 @@ granting the freedom to:
 
 For apply for contributor 
 please make application at uocdev.github.io@gmail.com
-```
