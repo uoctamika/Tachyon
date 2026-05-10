@@ -1,0 +1,8 @@
+Tachyon repository require you to use specific style commits due to maintainable.
+The following Action commit are:
+
+patch: fixing bugs, refreshing some codes.
+
+minor: added new feature, changing more source codes
+
+major: jumb into new systems, fixing, added in, and fully refactoring codebase
