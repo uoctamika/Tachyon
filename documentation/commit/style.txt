@@ -1,8 +1,24 @@
 Tachyon repository require you to use specific style commits due to maintainable.
 The following Action commit are:
 
-patch: fixing bugs, refreshing some codes.
+Patch: fixing bugs, refreshing some codes.
 
-minor: added new feature, changing more source codes
+Minor: added new feature, changing more source codes
 
-major: jumb into new systems, fixing, added in, and fully refactoring codebase
+Major: jumb into new systems, fixing, added in, and fully refactoring codebase
+
+Create: make something that is new
+  Short type: Add, Make, Crt
+
+Remove: remove something that is no longer needed or something wrong
+  Short type: Rm, Dlt
+
+EXAMPLE
+- - - -
+Add::kernel.c : kernel entry point and some stuff
+Rm::workflow.yml : build no longer needed
+Major::kernel.c : kernel now running in 64-bit long mode
+
+NOTE
+- - -
+for descriptions, i recommended to using lower case word. Readable is require.
